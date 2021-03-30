@@ -1,0 +1,69 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "iphone 12 pro",
+      "company": "Apple",
+      "price": 100000,
+      "color": "#33505a",
+      "image": "https://cnet2.cbsistatic.com/img/oVEXF1jkI0MJ0ZTbZTYorhB1isk=/756x425/2020/10/19/f7e43a19-2461-4668-93de-0aa50ad8b9b0/66-iphone-12-2020.jpg"
+    },
+    {
+      "id": 2,
+      "name": "OnePlus 6T",
+      "company": "OnePlus",
+      "price": 31200,
+      "color": "#32505a",
+      "image": "https://cnet2.cbsistatic.com/img/jTKyeC8r9E2ovxE_pobyzB0q9z4=/1092x614/2019/05/08/49c9f176-c505-4ce3-8757-f4279be5f01e/oneplus-7-pro-10.jpg"
+    },
+    {
+      "id": 2,
+      "name": "iphone 12 pro Max",
+      "company": "Apple",
+      "price": 110000,
+      "color": "#33555a",
+      "image": "https://cnet2.cbsistatic.com/img/oVEXF1jkI0MJ0ZTbZTYorhB1isk=/756x425/2020/10/19/f7e43a19-2461-4668-93de-0aa50ad8b9b0/66-iphone-12-2020.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Pixel 5",
+      "company": "Google",
+      "price": 70500,
+      "color": "#00ac51",
+      "image": "https://cnet3.cbsistatic.com/img/_ijM9rBhUu7nbhoa4hMnZ_rWrWk=/420x236/2020/10/13/f4b58cb1-f6f1-4a0e-a7bd-6a7958cf0077/google-pixel-5-5g-8911.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Galaxy S20",
+      "company": "Apple",
+      "price": 80700,
+      "color": "#33505a",
+      "image": "https://cnet4.cbsistatic.com/img/Qj-cjrH99Wv8GRENHUJNbM7_qfw=/1200x630/2020/03/02/8fd20345-9026-4167-9057-23c011d03a48/27-samsung-galaxy-s20-plus.jpg"
+    },
+    {
+      "id": 5,
+      "name": "OnePlus 8T",
+      "company": "OnePlus",
+      "price": 40200,
+      "color": "#33525a",
+      "image": "https://cnet3.cbsistatic.com/img/fVmR-1ZLahDroZOnKpIu4CjUWug=/1200x675/2020/10/08/ec2ddbac-c600-4bf9-9cd3-d3d6ff72d37f/oneplus-8t-product-promo-hoyle-34.jpg"
+    },
+    {
+      "id": 6,
+      "name": "OnePlus 7 Pro",
+      "company": "OnePlus",
+      "price": 30200,
+      "color": "#33505a",
+      "image": "https://cnet2.cbsistatic.com/img/jTKyeC8r9E2ovxE_pobyzB0q9z4=/1092x614/2019/05/08/49c9f176-c505-4ce3-8757-f4279be5f01e/oneplus-7-pro-10.jpg"
+    },
+
+    {
+      "id": 7,
+      "name": "iphone 12 pro Max",
+      "company": "Apple",
+      "price": 110000,
+      "color": "#33555a",
+      "image": "https://cnet2.cbsistatic.com/img/oVEXF1jkI0MJ0ZTbZTYorhB1isk=/756x425/2020/10/19/f7e43a19-2461-4668-93de-0aa50ad8b9b0/66-iphone-12-2020.jpg"
+    }
+  ]
+}
