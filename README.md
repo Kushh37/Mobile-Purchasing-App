@@ -1,6 +1,6 @@
-# demo1
+# Mobile Purchasing App-flutter
 
-Demo
+FlutterApp
 
 ## Getting Started
 
