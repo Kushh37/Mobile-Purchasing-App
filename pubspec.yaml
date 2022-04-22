@@ -29,6 +29,7 @@ dependencies:
   http: ^0.13.0
   url_strategy: ^0.2.0
   velocity_x: ^2.6.0 
+  platform: ^3.1.0
 
 dev_dependencies:
   flutter_test:
